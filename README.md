@@ -1,5 +1,6 @@
 
 
+
 # 🛡️ AI-Based Web Security Suite
 
 <p align="center">
@@ -364,49 +365,55 @@ Incoming HTTP Traffic
 
 ## 2️⃣ Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+<img width="1902" height="913" alt="ss1" src="https://github.com/user-attachments/assets/2b4363e6-3164-4dfe-ab27-b58d04433439" />
 
 ---
 
 ## 3️⃣ Website Management
 
-![Website](screenshots/websites.png)
+<img width="1902" height="906" alt="ss2" src="https://github.com/user-attachments/assets/8339d0da-da34-40be-9a4d-b80080d9ed5c" />
+
 
 ---
 
 ## 4️⃣ Vulnerability Scanner
 
-![Scanner](screenshots/scanner.png)
+<img width="1895" height="907" alt="ss3" src="https://github.com/user-attachments/assets/155c3592-5d40-4810-9df3-c609e720f758" />
+
 
 ---
 
 ## 5️⃣ Scan Progress
 
-![Progress](screenshots/progress.png)
+<img width="1906" height="907" alt="ss4" src="https://github.com/user-attachments/assets/7720088e-5f02-474c-b737-1cfc2c20928c" />
+
 
 ---
 
 ## 6️⃣ AI Security Analysis
 
-![AI Analysis](screenshots/ai-analysis.png)
+<img width="1897" height="907" alt="ss5" src="https://github.com/user-attachments/assets/0e230602-f440-4c15-b6e4-3575cfa9b041" />
+
 
 ---
 
 ## 7️⃣ Web Application Firewall
 
-![WAF](screenshots/waf.png)
+<img width="1286" height="842" alt="ss6" src="https://github.com/user-attachments/assets/4e0434b8-a178-4daf-99ab-725ecf01a5f0" />
+
 
 ---
 
 ## 8️⃣ Security Reports
 
-![Reports](screenshots/report.png)
+<img width="1232" height="822" alt="ss7" src="https://github.com/user-attachments/assets/3158f9df-6b32-4ec5-9a7b-4475124a089a" />
+
 
 ---
 
 ## 9️⃣ Activity Logs
 
-![Logs](screenshots/logs.png)
+
 
 ---
 
