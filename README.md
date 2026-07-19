@@ -1,3 +1,4 @@
+
 # 🛡️ AI-Based Web Security Suite
 
 <p align="center">
@@ -114,7 +115,7 @@ The objective is to provide developers and security professionals with an all-in
 > Replace the image below with your architecture diagram.
 
 <p align="center">
-<img src="screenshots/architecture.png" width="950">
+<img width="1536" height="1024" alt="system architecture" src="https://github.com/user-attachments/assets/b7c51e35-0775-4109-a739-c8564d4dc508" />
 </p>
 
 ---
@@ -167,7 +168,7 @@ Install the following software before running the project:
 ## 📥 Clone Repository
 
 ```bash
-git clone https://github.com/YourUsername/AI-Based-Web-Security-Suite.git
+git clone https://github.com/MohammedHabibQureshi/AI-Based-Web-Security-Suite.git
 
 cd AI-Based-Web-Security-Suite
 ```
