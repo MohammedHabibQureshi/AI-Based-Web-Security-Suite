@@ -64,3 +64,28 @@ Thumbs.db
 .vscode/
 *.sublime-project
 *.sublime-workspace
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Build
+dist/
+build/
+
+# Cache
+.cache/
