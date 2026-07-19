@@ -358,7 +358,7 @@ Incoming HTTP Traffic
 
 ## 1️⃣ Login Page
 
-![Login](<img width="911" height="750" alt="ss0" src="https://github.com/user-attachments/assets/d5050683-dc55-42bc-8db0-259621b503e2" />)
+![Login]<img width="911" height="750" alt="ss0" src="https://github.com/user-attachments/assets/d5050683-dc55-42bc-8db0-259621b503e2" />
 
 ---
 
