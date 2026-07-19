@@ -369,7 +369,7 @@ Incoming HTTP Traffic
 
 ---
 
-## 3️⃣ Website Management
+## 3️⃣ Web Application Firewall
 
 <img width="1902" height="906" alt="ss2" src="https://github.com/user-attachments/assets/8339d0da-da34-40be-9a4d-b80080d9ed5c" />
 
@@ -383,7 +383,7 @@ Incoming HTTP Traffic
 
 ---
 
-## 5️⃣ Scan Progress
+## 5️⃣ Setting
 
 <img width="1906" height="907" alt="ss4" src="https://github.com/user-attachments/assets/7720088e-5f02-474c-b737-1cfc2c20928c" />
 
@@ -397,21 +397,21 @@ Incoming HTTP Traffic
 
 ---
 
-## 7️⃣ Web Application Firewall
+## 7️⃣ Security Reports
 
 <img width="1286" height="842" alt="ss6" src="https://github.com/user-attachments/assets/4e0434b8-a178-4daf-99ab-725ecf01a5f0" />
 
-
 ---
-
-## 8️⃣ Security Reports
 
 <img width="1232" height="822" alt="ss7" src="https://github.com/user-attachments/assets/3158f9df-6b32-4ec5-9a7b-4475124a089a" />
 
+---
+
+<img width="1108" height="702" alt="ss8" src="https://github.com/user-attachments/assets/017bbbab-92e1-4420-b79c-eaf2f2fa222c" />
 
 ---
 
-## 9️⃣ Activity Logs
+<img width="1085" height="865" alt="ss9" src="https://github.com/user-attachments/assets/02866eeb-c20c-4e04-b62b-721bdf275a83" />
 
 
 
