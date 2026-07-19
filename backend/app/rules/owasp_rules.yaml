@@ -1,0 +1,56 @@
+rules:
+  - id: SQLI_UNION
+    name: SQL Injection - UNION SELECT
+    category: Injection
+    severity: Critical
+    base_risk_score: 60
+    patterns:
+      - "(?i)(union\\s+(all\\s+)?select)"
+      - "(?i)(union\\s+select)"
+
+  - id: SQLI_GENERIC
+    name: SQL Injection - Generic patterns
+    category: Injection
+    severity: High
+    base_risk_score: 45
+    patterns:
+      - "(?i)(or\\s+['\"\\d]+\\s*=\\s*['\"\\d]+)"
+      - "(?i)(select\\s+.*\\s+from)"
+      - "(?i)(insert\\s+into\\s+.*\\s+values)"
+      - "(?i)(delete\\s+from\\s+.*\\s+where)"
+      - "(?i)(drop\\s+table)"
+
+  - id: XSS_SCRIPT
+    name: Cross-Site Scripting - Script Tag
+    category: XSS
+    severity: Critical
+    base_risk_score: 55
+    patterns:
+      - "(?i)(<script[^>]*>)"
+      - "(?i)(javascript:)"
+      - "(?i)(\\s+onerror\\s*=)"
+      - "(?i)(\\s+onload\\s*=)"
+      - "(?i)(\\s+onclick\\s*=)"
+
+  - id: PATH_TRAVERSAL
+    name: Path Traversal
+    category: Broken Access Control
+    severity: High
+    base_risk_score: 50
+    patterns:
+      - "(\\.\\./|\\.\\.\\\\)"
+      - "(/etc/passwd|/etc/shadow|/etc/hosts)"
+      - "(boot\\.ini|win\\.ini)"
+
+  - id: RCE_SHELL
+    name: Remote Code Execution - Shell commands
+    category: Injection
+    severity: Critical
+    base_risk_score: 70
+    patterns:
+      - "(\\|\\|\\s*(curl|wget|bash|sh|cmd|powershell))"
+      - "(&\\s*(curl|wget|bash|sh|cmd|powershell))"
+      - "(;\\s*(curl|wget|bash|sh|cmd|powershell))"
+      - "(?i)(exec\\s*\\()"
+      - "(?i)(system\\s*\\()"
+      - "(?i)(eval\\s*\\()"
