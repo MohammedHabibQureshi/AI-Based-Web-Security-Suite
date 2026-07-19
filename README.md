@@ -484,9 +484,8 @@ This project is licensed under the **MIT License**.
 
 **Mohammad Habib Qureshi**
 
-B.Tech – Computer Science Engineering (IoT Specialization in Cybersecurity & Blockchain)
-
-KL University
+* GitHub: https://github.com/MohammedHabibQureshi
+* LinkedIn: https://www.linkedin.com/in/md-habib-qureshi/
 
 ---
 
