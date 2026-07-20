@@ -442,7 +442,7 @@ The demonstration covers:
 
 ▶️ **Watch the Demo**
 
-[![Watch Demo]https://github.com/user-attachments/assets/441f1ce4-2e73-4d30-a24d-0f6251f26fe3
+[![Watch Demo](https://github.com/user-attachments/assets/441f1ce4-2e73-4d30-a24d-0f6251f26fe3)
 
 
 
