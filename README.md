@@ -442,7 +442,9 @@ The demonstration covers:
 
 ▶️ **Watch the Demo**
 
-[![Watch Demo](screenshots/dashboard.png)](https://YOUR_VIDEO_LINK_HERE)
+[![Watch Demo]https://github.com/user-attachments/assets/441f1ce4-2e73-4d30-a24d-0f6251f26fe3
+
+
 
 > Replace the above link with your YouTube or GitHub video URL.
 
