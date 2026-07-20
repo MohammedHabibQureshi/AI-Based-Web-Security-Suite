@@ -446,8 +446,6 @@ The demonstration covers:
 
 
 
-> Replace the above link with your YouTube or GitHub video URL.
-
 ---
 
 # 🚀 Future Improvements
